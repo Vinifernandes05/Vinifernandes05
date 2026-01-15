@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Vinicius Sousa Fernandes 
-## **`Desenvolvimento de Sofware | Gestão Ágil `**
+## **`Desenvolvimento de Software | Gestão Ágil `**
 Me chamo Vinicius Sousa Fernandes, sou natural de Salvador – BA e atualmente curso Engenharia da Computação na Universidade SENAI Cimatec.
 Concluí o ensino fundamental e médio no Colégio Módulo.
 
