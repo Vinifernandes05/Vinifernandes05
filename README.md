@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🧑🏻‍💻 Vinicius Sousa Fernandes 
+## **`Desenvolvimento de Sofware | Gestão Ágil `**
+Me chamo Vinicius Sousa Fernandes, sou natural de Salvador – BA e atualmente curso Engenharia da Computação na Universidade SENAI Cimatec.
+Concluí o ensino fundamental e médio no Colégio Módulo.
 
-<!--
-**Vinifernandes05/Vinifernandes05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho grande interesse em Tecnologia, Programação, Robótica e Inteligência Artificial, além de grande afinidade com Gestão de Projetos. Estou sempre em busca de aprendizado contínuo e do desenvolvimento de soluções tecnológicas eficientes e inovadoras.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **💻Tecnologias**
+-  JavaScript | Node.js 
+-  HTML
+-  CSS
+-  SQL 
+-  C++
+-  Java 
+-  Python
+
+### **🚀 Projetos**
+- 🏃🏻‍♂️Site Marcas Esportivas
+- 🤖 Robô de Sumô Autônomo
+
+### **📩 Contato**
+- LinkedIn: www.linkedin.com
+/in/viniciussousaf
+- Email: vinifernandes2005@gmail.com
