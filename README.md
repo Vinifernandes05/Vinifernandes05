@@ -6,7 +6,7 @@ Concluí o ensino fundamental e médio no Colégio Módulo.
 Tenho grande interesse em Tecnologia, Programação, Robótica e Inteligência Artificial, além de grande afinidade com Gestão de Projetos. Estou sempre em busca de aprendizado contínuo e do desenvolvimento de soluções tecnológicas eficientes e inovadoras.
 
 
-### **💻Tecnologias**
+### **💻 Tecnologias**
 -  JavaScript | Node.js 
 -  HTML
 -  CSS
