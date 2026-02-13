@@ -4,7 +4,7 @@
 
 Sou natural de Salvador – BA e atualmente curso **Engenharia da Computação** na Universidade SENAI Cimatec.  
 
-Tenho grande interesse em **Tecnologia, Programação, Robótica e Inteligência Artificial**, além de forte afinidade com **Gestão de Projetos e metodologias ágeis**.  
+Tenho grande interesse em **Tecnologia, Programação, Robótica e Inteligência Artificial**, além de forte interesse com **Gestão de Projetos e metodologias ágeis**.  
 
 Busco constantemente evolução técnica e profissional, desenvolvendo soluções tecnológicas eficientes.
 
