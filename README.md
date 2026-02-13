@@ -6,7 +6,7 @@ Sou natural de Salvador – BA e atualmente curso **Engenharia da Computação**
 
 Tenho grande interesse em **Tecnologia, Programação, Robótica e Inteligência Artificial**, além de forte afinidade com **Gestão de Projetos e metodologias ágeis**.  
 
-Busco constantemente evolução técnica e profissional, desenvolvendo soluções tecnológicas eficientes, escaláveis e inovadoras.
+Busco constantemente evolução técnica e profissional, desenvolvendo soluções tecnológicas eficientes.
 
 ---
 
