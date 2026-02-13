@@ -5,14 +5,17 @@ Concluí o ensino fundamental e médio no Colégio Módulo.
 
 Tenho grande interesse em Tecnologia, Programação, Robótica e Inteligência Artificial, além de grande afinidade com Gestão de Projetos. Estou sempre em busca de aprendizado contínuo e do desenvolvimento de soluções tecnológicas eficientes e inovadoras.
 
+## **💻 Tecnologias**
 
-### **💻 Tecnologias**
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-SQL" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
-          
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+</p>
+
+
+#
   </div>
 
 ### **🚀 Projetos**
