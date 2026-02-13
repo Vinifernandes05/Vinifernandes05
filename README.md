@@ -7,19 +7,18 @@ Tenho grande interesse em Tecnologia, Programação, Robótica e Inteligência A
 
 
 ### **💻 Tecnologias**
--  JavaScript | Node.js 
--  HTML
--  CSS
--  SQL 
--  C++
--  Java 
--  Python
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></div>
 
 ### **🚀 Projetos**
+
 - 🏃🏻‍♂️Site Marcas Esportivas
 - 🤖 Robô de Sumô Autônomo
 
 ### **📩 Contato**
+
 - LinkedIn: www.linkedin.com
 /in/viniciussousaf
 - Email: vinifernandes2005@gmail.com
