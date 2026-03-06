@@ -35,10 +35,10 @@ Busco constantemente evolução técnica e profissional, desenvolvendo soluçõe
 
 - 🏃🏻‍♂️ **Site Marcas Esportivas**
 - 👥 **Sistema Interno de Cadastro de Usuários**
-- 🌐💻 **Portifólio Web**
+- 🌐 **Portifólio Web**
 - 🎮 **Game Alien 2D**
 - 🤖 **Robô de Sumô Autônomo**
-- 🎄🤖 **Árvore de Natal Inteligente**
+- 🎄 **Árvore de Natal Inteligente**
 
 ---
 
