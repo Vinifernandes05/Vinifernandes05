@@ -40,10 +40,10 @@ Busco constantemente evolução técnica e profissional, desenvolvendo soluçõe
 
 ---
 
-## 📩 Contato
+## 📞 Contato
 
-- 🔗 **LinkedIn:**  
-  https://www.linkedin.com/in/viniciussousaf  
+👤 **Vinicius Sousa Fernandes**
 
-- 📧 **Email:**  
-  vinifernandes2005@gmail.com
+- 📧 Email: vinifernandes2005@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/viniciussousaf  
+- 💻 GitHub: https://github.com/Vinifernandes05 
