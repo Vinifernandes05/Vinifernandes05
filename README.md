@@ -31,6 +31,7 @@ Busco constantemente evolução técnica e profissional, desenvolvendo soluçõe
 ---
 
 ## 🚀 Projetos
+- 👥 **Sistema de Fluxo de Caixa**
 - 👥 **Sistema IoT de Monitoramento Industrial**
 - 👥 **Sistema Web de Agendamento e Gestão**
 - 👥 **Sistema de Cadastro de Usuários Web**
