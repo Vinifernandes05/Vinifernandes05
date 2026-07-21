@@ -34,11 +34,12 @@ Busco constantemente evolução técnica e profissional, desenvolvendo soluçõe
 - 👥 **Sistema IoT de Monitoramento Industrial**
 - 👥 **Sistema Web de Agendamento e Gestão**
 - 👥 **Sistema de Cadastro de Usuários Web**
-- 👥 **Sistema de Fluxo de Caixa**
-- 👥 **Sistema de Desconto**
-- 🏃🏻‍♂️ **Site Marcas Esportivas**
 - 👥 **Sistema Interno de Cadastro de Usuários**
 - 🌐 **Portifólio Web**
+- 👾 **Game 2D Alien**
+- 👥 **Sistema de Desconto**
+- 👥 **Sistema de Fluxo de Caixa**
+- 🏃🏻‍♂️ **Site Marcas Esportivas**
 - 🤖 **Robô de Sumô Autônomo**
 - 🎄 **Árvore de Natal Inteligente**
 
